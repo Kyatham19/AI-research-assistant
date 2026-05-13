@@ -1,0 +1,448 @@
+[
+  {
+    "summary": "We present Tierkreis, a higher-order dataflow graph program representation and runtime designed for compositional, quantum-classical hybrid algorithms. The design of the system is motivated by the remote nature of quantum computers, the need for hybrid algorithms to involve cloud and distributed computing, and the long-running nature of these algorithms. The graph-based representation reflects how designers reason about and visualise algorithms, and allows automatic parallelism and asynchronicity. A strong, static type system and higher-order semantics allow for high expressivity and compositionality in the program. With Tierkreis, quantum software developers can easily build, visualise, verify, test, and debug complex hybrid workflows, and immediately deploy them to the cloud or a custom distributed environment.",
+    "keywords": [
+      {
+        "term": "algorithms",
+        "score": 4
+      },
+      {
+        "term": "quantum",
+        "score": 3
+      },
+      {
+        "term": "hybrid",
+        "score": 3
+      },
+      {
+        "term": "tierkreis",
+        "score": 2
+      },
+      {
+        "term": "higher",
+        "score": 2
+      },
+      {
+        "term": "order",
+        "score": 2
+      },
+      {
+        "term": "graph",
+        "score": 2
+      },
+      {
+        "term": "program",
+        "score": 2
+      },
+      {
+        "term": "representation",
+        "score": 2
+      },
+      {
+        "term": "runtime",
+        "score": 2
+      },
+      {
+        "term": "system",
+        "score": 2
+      },
+      {
+        "term": "nature",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "We present Tierkreis, a higher-order dataflow graph program representation and runtime designed for compositional, quantum-classical hybrid algorithms.",
+      "The design of the system is motivated by the remote nature of quantum computers, the need for hybrid algorithms to involve cloud and distributed computing, and the long-running nature of these algorithms.",
+      "With Tierkreis, quantum software developers can easily build, visualise, verify, test, and debug complex hybrid workflows, and immediately deploy them to the cloud or a custom distributed environment.",
+      "A strong, static type system and higher-order semantics allow for high expressivity and compositionality in the program.",
+      "The graph-based representation reflects how designers reason about and visualise algorithms, and allows automatic parallelism and asynchronicity."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "We present Tierkreis, a higher-order dataflow graph program representation and runtime designed for compositional, quantum-classical hybrid algorithms."
+    ],
+    "methods": [
+      "No specific methods detected"
+    ],
+    "stats": {
+      "word_count": 132,
+      "sentence_count": 6,
+      "avg_sentence_length": 22.0,
+      "unique_words": 85
+    },
+    "title": "Tierkreis: A Dataflow Framework for Hybrid Quantum-Classical Computing",
+    "authors": [
+      "Seyon Sivarajah",
+      "Lukas Heidemann",
+      "Alan Lawrence",
+      "Ross Duncan"
+    ],
+    "url": "http://arxiv.org/abs/2211.02350v1",
+    "published": "2022-11-04"
+  },
+  {
+    "summary": "The recent development of quantum computing, which uses entanglement, superposition, and other quantum fundamental concepts, can provide substantial processing advantages over traditional computing. These problems include modeling quantum mechanics, logistics, chemical-based advances, drug design, statistical science, sustainable energy, banking, reliable communication, and quantum chemical engineering. The last few years have witnessed remarkable progress in quantum software and algorithm creation and quantum hardware research, which has significantly advanced the prospect of realizing quantum computers. It would be helpful to have comprehensive literature research on this area to grasp the current status and find outstanding problems that require considerable attention from the research community working in the quantum computing industry. We discuss cutting-edge developments in quantum computer hardware advancement and subsequent advances in quantum cryptography, quantum software, and high-scalability quantum computers.",
+    "keywords": [
+      {
+        "term": "quantum computing,",
+        "score": 4
+      },
+      {
+        "term": "quantum computers.",
+        "score": 4
+      },
+      {
+        "term": "computing",
+        "score": 5
+      },
+      {
+        "term": "problems",
+        "score": 3
+      },
+      {
+        "term": "development",
+        "score": 2
+      },
+      {
+        "term": "many",
+        "score": 2
+      },
+      {
+        "term": "chemical",
+        "score": 2
+      },
+      {
+        "term": "advances",
+        "score": 2
+      },
+      {
+        "term": "software",
+        "score": 2
+      },
+      {
+        "term": "hardware",
+        "score": 2
+      },
+      {
+        "term": "computers",
+        "score": 2
+      },
+      {
+        "term": "area",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "We discuss cutting-edge developments in quantum computer hardware advancement and subsequent advances in quantum cryptography, quantum software, and high-scalability quantum computers.",
+      "The last few years have witnessed remarkable progress in quantum software and algorithm creation and quantum hardware research, which has significantly advanced the prospect of realizing quantum computers.",
+      "The recent development of quantum computing, which uses entanglement, superposition, and other quantum fundamental concepts, can provide substantial processing advantages over traditional computing.",
+      "These problems include modeling quantum mechanics, logistics, chemical-based advances, drug design, statistical science, sustainable energy, banking, reliable communication, and quantum chemical engineering.",
+      "It would be helpful to have comprehensive literature research on this area to grasp the current status and find outstanding problems that require considerable attention from the research community working in the quantum computing industry."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "We discuss cutting-edge developments in quantum computer hardware advancement and subsequent advances in quantum cryptography, quantum software, and high-scalability quantum computers."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "No explicit contributions detected."
+    ],
+    "methods": [
+      "Statistical"
+    ],
+    "stats": {
+      "word_count": 190,
+      "sentence_count": 8,
+      "avg_sentence_length": 23.8,
+      "unique_words": 122
+    },
+    "title": "Quantum Computing: Vision and Challenges",
+    "authors": [
+      "Sukhpal Singh Gill",
+      "Oktay Cetinkaya",
+      "Stefano Marrone",
+      "Daniel Claudino",
+      "David Haunschild"
+    ],
+    "url": "http://arxiv.org/abs/2403.02240v5",
+    "published": "2024-03-04"
+  },
+  {
+    "summary": "Merging disciplines has led to incredible learnings and breakthroughs throughout history, including the discovery of quantum computing: a cross between computation and quantum physics. In this paper, I will discuss how we can cross quantum computing with topics in fundamental physics. This leads to fruitful, interactive learning opportunities that fuse deep open physics problems with key insights about quantum information science. By outlining quantum circuit experiments that can be run on current and near-term quantum computers, I demonstrate how to help learners engage with principles in special relativity, general relativity and thermodynamics. Learners can further explore the quantum computing activities in this paper via the Quantum Paradoxes content series of videos, blogs and code tutorials that I created with IBM Quantum.",
+    "keywords": [
+      {
+        "term": "quantum computing",
+        "score": 4
+      },
+      {
+        "term": "physics",
+        "score": 3
+      },
+      {
+        "term": "cross",
+        "score": 2
+      },
+      {
+        "term": "learners",
+        "score": 2
+      },
+      {
+        "term": "relativity",
+        "score": 2
+      },
+      {
+        "term": "merging",
+        "score": 1
+      },
+      {
+        "term": "disciplines",
+        "score": 1
+      },
+      {
+        "term": "incredible",
+        "score": 1
+      },
+      {
+        "term": "learnings",
+        "score": 1
+      },
+      {
+        "term": "breakthroughs",
+        "score": 1
+      },
+      {
+        "term": "history",
+        "score": 1
+      },
+      {
+        "term": "discovery",
+        "score": 1
+      }
+    ],
+    "important_sentences": [
+      "Merging disciplines has led to incredible learnings and breakthroughs throughout history, including the discovery of quantum computing: a cross between computation and quantum physics.",
+      "Learners can further explore the quantum computing activities in this paper via the Quantum Paradoxes content series of videos, blogs and code tutorials that I created with IBM Quantum.",
+      "By outlining quantum circuit experiments that can be run on current and near-term quantum computers, I demonstrate how to help learners engage with principles in special relativity, general relativity and thermodynamics.",
+      "In this paper, I will discuss how we can cross quantum computing with topics in fundamental physics.",
+      "This leads to fruitful, interactive learning opportunities that fuse deep open physics problems with key insights about quantum information science."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "No explicit contributions detected."
+    ],
+    "methods": [
+      "No specific methods detected"
+    ],
+    "stats": {
+      "word_count": 133,
+      "sentence_count": 6,
+      "avg_sentence_length": 22.2,
+      "unique_words": 88
+    },
+    "title": "Entangling Disciplines: Causality, Entropy and Time-Travel Paradoxes on a Quantum Computer",
+    "authors": [
+      "Maria Violaris"
+    ],
+    "url": "http://arxiv.org/abs/2506.15909v1",
+    "published": "2025-06-18"
+  },
+  {
+    "summary": "Delegated quantum computing  DQC  allows clients with low quantum capabilities to outsource computations to a server hosting a quantum computer. Hence, the overall process of setting up and conducting the computation encompasses a sequence of three stages: preparing the qubits, entangling the qubits to obtain the resource state, and measuring the qubits to run the computation. There are two primary approaches to distributing these stages between the client and the server that impose different constraints on cryptographic techniques and experimental implementations. In the prepare-and-send setting, the client prepares the qubits and sends them to the server, while in the receive-and-measure setting, the client receives the qubits from the server and measures them. By implementing the key components of most DQC protocols in the respective missing setting, we provide a method to build prospective protocols in both settings simultaneously and to translate existing protocols from one setting into the other.",
+    "keywords": [
+      {
+        "term": "quantum computing",
+        "score": 4
+      },
+      {
+        "term": "setting",
+        "score": 6
+      },
+      {
+        "term": "qubits",
+        "score": 5
+      },
+      {
+        "term": "server",
+        "score": 4
+      },
+      {
+        "term": "computation",
+        "score": 3
+      },
+      {
+        "term": "client",
+        "score": 3
+      },
+      {
+        "term": "protocols",
+        "score": 3
+      },
+      {
+        "term": "process",
+        "score": 2
+      },
+      {
+        "term": "stages",
+        "score": 2
+      },
+      {
+        "term": "constraints",
+        "score": 2
+      },
+      {
+        "term": "them",
+        "score": 2
+      },
+      {
+        "term": "settings",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "In the prepare-and-send setting, the client prepares the qubits and sends them to the server, while in the receive-and-measure setting, the client receives the qubits from the server and measures them.",
+      "Hence, the overall process of setting up and conducting the computation encompasses a sequence of three stages: preparing the qubits, entangling the qubits to obtain the resource state, and measuring the qubits to run the computation.",
+      "By implementing the key components of most DQC protocols in the respective missing setting, we provide a method to build prospective protocols in both settings simultaneously and to translate existing protocols from one setting into the other.",
+      "Delegated quantum computing  DQC  allows clients with low quantum capabilities to outsource computations to a server hosting a quantum computer.",
+      "There are two primary approaches to distributing these stages between the client and the server that impose different constraints on cryptographic techniques and experimental implementations."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "There are two primary approaches to distributing these stages between the client and the server that impose different constraints on cryptographic techniques and experimental implementations.",
+      "Although these settings have been extensively studied independently, their interrelation and whether setting-dependent theoretical constraints are inevitable remain unclear."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "No explicit contributions detected."
+    ],
+    "methods": [
+      "No specific methods detected"
+    ],
+    "stats": {
+      "word_count": 194,
+      "sentence_count": 7,
+      "avg_sentence_length": 27.7,
+      "unique_words": 117
+    },
+    "title": "Unifying communication paradigms in measurement-based delegated quantum computing",
+    "authors": [
+      "Fabian Wiesner",
+      "Jens Eisert",
+      "Anna Pappa"
+    ],
+    "url": "http://arxiv.org/abs/2506.21988v2",
+    "published": "2025-06-27"
+  },
+  {
+    "summary": "The determination of ground state properties of quantum systems is a fundamental problem in physics and chemistry, and is considered a key application of quantum computers. A common approach is to prepare a trial ground state on the quantum computer and measure observables such as energy, but this is often limited by hardware constraints that prevent an accurate description of the target ground state. The quantum computed moments  QCM  method has proven to be remarkably useful in estimating the ground state energy of a system by computing Hamiltonian moments with respect to a suboptimal or noisy trial state. In this paper, we extend the QCM method to estimate arbitrary ground state observables of quantum systems. Our findings validate the well-established advantage of QCM over existing methods in handling suboptimal trial states and noise, extend its applicability to the estimation of more general ground state properties, and demonstrate its practical potential for solving a wide range of problems on near-term quantum hardware.",
+    "keywords": [
+      {
+        "term": "ground state",
+        "score": 12
+      },
+      {
+        "term": "quantum",
+        "score": 6
+      },
+      {
+        "term": "trial",
+        "score": 3
+      },
+      {
+        "term": "properties",
+        "score": 2
+      },
+      {
+        "term": "systems",
+        "score": 2
+      },
+      {
+        "term": "observables",
+        "score": 2
+      },
+      {
+        "term": "energy",
+        "score": 2
+      },
+      {
+        "term": "hardware",
+        "score": 2
+      },
+      {
+        "term": "moments",
+        "score": 2
+      },
+      {
+        "term": "suboptimal",
+        "score": 2
+      },
+      {
+        "term": "extend",
+        "score": 2
+      },
+      {
+        "term": "spin",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "Our findings validate the well-established advantage of QCM over existing methods in handling suboptimal trial states and noise, extend its applicability to the estimation of more general ground state properties, and demonstrate its practical potential for solving a wide range of problems on near-term quantum hardware.",
+      "A common approach is to prepare a trial ground state on the quantum computer and measure observables such as energy, but this is often limited by hardware constraints that prevent an accurate description of the target ground state.",
+      "The quantum computed moments  QCM  method has proven to be remarkably useful in estimating the ground state energy of a system by computing Hamiltonian moments with respect to a suboptimal or noisy trial state.",
+      "The determination of ground state properties of quantum systems is a fundamental problem in physics and chemistry, and is considered a key application of quantum computers.",
+      "In this paper, we extend the QCM method to estimate arbitrary ground state observables of quantum systems."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "A common approach is to prepare a trial ground state on the quantum computer and measure observables such as energy, but this is often limited by hardware constraints that prevent an accurate description of the target ground state."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "We present preliminary results of using QCM to determine the ground state magnetisation and spin-spin correlations of the Heisenberg model in its various forms."
+    ],
+    "methods": [
+      "No specific methods detected"
+    ],
+    "stats": {
+      "word_count": 188,
+      "sentence_count": 6,
+      "avg_sentence_length": 31.3,
+      "unique_words": 107
+    },
+    "title": "Arbitrary Ground State Observables from Quantum Computed Moments",
+    "authors": [
+      "Harish J. Vallury",
+      "Lloyd C. L. Hollenberg"
+    ],
+    "url": "http://arxiv.org/abs/2312.06975v1",
+    "published": "2023-12-12"
+  }
+]

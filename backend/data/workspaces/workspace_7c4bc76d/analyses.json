@@ -1,0 +1,445 @@
+[
+  {
+    "summary": "The chapter discusses the foundational impact of modern generative AI models on information access  IA  systems. In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms. Information synthesis leverages the ability of generative AI to integrate and reorganize existing information, providing grounded responses and mitigating issues like model hallucination, which is particularly valuable in scenarios requiring precision and external knowledge. This chapter delves into the foundational aspects of generative models, including architecture, scaling, and training, and discusses their applications in multi-modal scenarios. Additionally, it examines the retrieval-augmented generation paradigm and other methods for corpus modeling and understanding, demonstrating how generative AI can enhance information access systems.",
+    "keywords": [
+      {
+        "term": "information access",
+        "score": 4
+      },
+      {
+        "term": "information generation",
+        "score": 4
+      },
+      {
+        "term": "generative",
+        "score": 5
+      },
+      {
+        "term": "chapter",
+        "score": 3
+      },
+      {
+        "term": "discusses",
+        "score": 2
+      },
+      {
+        "term": "foundational",
+        "score": 2
+      },
+      {
+        "term": "systems",
+        "score": 2
+      },
+      {
+        "term": "training",
+        "score": 2
+      },
+      {
+        "term": "modeling",
+        "score": 2
+      },
+      {
+        "term": "them",
+        "score": 2
+      },
+      {
+        "term": "like",
+        "score": 2
+      },
+      {
+        "term": "responses",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms.",
+      "Information synthesis leverages the ability of generative AI to integrate and reorganize existing information, providing grounded responses and mitigating issues like model hallucination, which is particularly valuable in scenarios requiring precision and external knowledge.",
+      "The chapter discusses the foundational impact of modern generative AI models on information access  IA  systems.",
+      "Additionally, it examines the retrieval-augmented generation paradigm and other methods for corpus modeling and understanding, demonstrating how generative AI can enhance information access systems.",
+      "This chapter delves into the foundational aspects of generative models, including architecture, scaling, and training, and discusses their applications in multi-modal scenarios."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "No explicit contributions detected."
+    ],
+    "methods": [
+      "Generative"
+    ],
+    "stats": {
+      "word_count": 184,
+      "sentence_count": 8,
+      "avg_sentence_length": 23.0,
+      "unique_words": 117
+    },
+    "title": "Foundations of GenIR",
+    "authors": [
+      "Qingyao Ai",
+      "Jingtao Zhan",
+      "Yiqun Liu"
+    ],
+    "url": "http://arxiv.org/abs/2501.02842v1",
+    "published": "2025-01-06"
+  },
+  {
+    "summary": "Artificial intelligence  AI  is understood to affect the content of people s decisions. Here, using a behavioral implementation of the classic Newcomb s paradox in 1,305 participants, we show that AI can also change how people decide. In this paradigm, belief in predictive authority can lead individuals to constrain decision-making, forgoing a guaranteed reward. Over 40  of participants treated AI as such a predictive authority. This significantly increased the odds of forgoing the guaranteed reward by a factor of 3.39  95  CI: 2.45-4.70  compared with random framing, and reduced earnings by 10.7-42.9 .",
+    "keywords": [
+      {
+        "term": "people",
+        "score": 3
+      },
+      {
+        "term": "participants",
+        "score": 2
+      },
+      {
+        "term": "predictive",
+        "score": 2
+      },
+      {
+        "term": "authority",
+        "score": 2
+      },
+      {
+        "term": "constrain",
+        "score": 2
+      },
+      {
+        "term": "decision",
+        "score": 2
+      },
+      {
+        "term": "forgoing",
+        "score": 2
+      },
+      {
+        "term": "guaranteed",
+        "score": 2
+      },
+      {
+        "term": "reward",
+        "score": 2
+      },
+      {
+        "term": "artificial",
+        "score": 1
+      },
+      {
+        "term": "intelligence",
+        "score": 1
+      },
+      {
+        "term": "understood",
+        "score": 1
+      }
+    ],
+    "important_sentences": [
+      "In this paradigm, belief in predictive authority can lead individuals to constrain decision-making, forgoing a guaranteed reward.",
+      "Artificial intelligence  AI  is understood to affect the content of people s decisions.",
+      "This significantly increased the odds of forgoing the guaranteed reward by a factor of 3.39  95  CI: 2.45-4.70  compared with random framing, and reduced earnings by 10.7-42.9 .",
+      "Here, using a behavioral implementation of the classic Newcomb s paradox in 1,305 participants, we show that AI can also change how people decide.",
+      "Over 40  of participants treated AI as such a predictive authority."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "Here, using a behavioral implementation of the classic Newcomb s paradox in 1,305 participants, we show that AI can also change how people decide."
+    ],
+    "methods": [
+      "No specific methods detected"
+    ],
+    "stats": {
+      "word_count": 134,
+      "sentence_count": 7,
+      "avg_sentence_length": 19.1,
+      "unique_words": 95
+    },
+    "title": "AI prediction leads people to forgo guaranteed rewards",
+    "authors": [
+      "Aoi Naito",
+      "Hirokazu Shirado"
+    ],
+    "url": "http://arxiv.org/abs/2603.28944v1",
+    "published": "2026-03-30"
+  },
+  {
+    "summary": "The rapid adoption of generative artificial intelligence  AI  in scientific research, particularly large language models  LLMs , has outpaced the development of ethical guidelines, leading to a  Triple-Too  problem: too many high-level ethical initiatives, too abstract principles lacking contextual and practical relevance, and too much focus on restrictions and risks over benefits and utilities. Existing approaches--principlism  reliance on abstract ethical principles , formalism  rigid application of rules , and technological solutionism  overemphasis on technological fixes --offer little practical guidance for addressing ethical challenges of AI in scientific research practices. It outlines five specific goals for ethical AI use: 1  understanding model training and output, including bias mitigation strategies; 2  respecting privacy, confidentiality, and copyright; 3  avoiding plagiarism and policy violations; 4  applying AI beneficially compared to alternatives; and 5  using AI transparently and reproducibly. I argue that ethical AI application requires evaluating its utility against existing alternatives rather than isolated performance metrics. By refining these ethical guidelines and adapting them to emerging AI capabilities, we can accelerate scientific progress without compromising research integrity.",
+    "keywords": [
+      {
+        "term": "abstract principles",
+        "score": 4
+      },
+      {
+        "term": "ethical",
+        "score": 7
+      },
+      {
+        "term": "scientific",
+        "score": 3
+      },
+      {
+        "term": "guidelines",
+        "score": 3
+      },
+      {
+        "term": "development",
+        "score": 2
+      },
+      {
+        "term": "practical",
+        "score": 2
+      },
+      {
+        "term": "existing",
+        "score": 2
+      },
+      {
+        "term": "application",
+        "score": 2
+      },
+      {
+        "term": "technological",
+        "score": 2
+      },
+      {
+        "term": "practices",
+        "score": 2
+      },
+      {
+        "term": "training",
+        "score": 2
+      },
+      {
+        "term": "strategies",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "The rapid adoption of generative artificial intelligence  AI  in scientific research, particularly large language models  LLMs , has outpaced the development of ethical guidelines, leading to a  Triple-Too  problem: too many high-level ethical initiatives, too abstract principles lacking contextual and practical relevance, and too much focus on restrictions and risks over benefits and utilities.",
+      "Existing approaches--principlism  reliance on abstract ethical principles , formalism  rigid application of rules , and technological solutionism  overemphasis on technological fixes --offer little practical guidance for addressing ethical challenges of AI in scientific research practices.",
+      "It outlines five specific goals for ethical AI use: 1  understanding model training and output, including bias mitigation strategies; 2  respecting privacy, confidentiality, and copyright; 3  avoiding plagiarism and policy violations; 4  applying AI beneficially compared to alternatives; and 5  using AI transparently and reproducibly.",
+      "By refining these ethical guidelines and adapting them to emerging AI capabilities, we can accelerate scientific progress without compromising research integrity.",
+      "I argue that ethical AI application requires evaluating its utility against existing alternatives rather than isolated performance metrics."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "No explicit contributions detected."
+    ],
+    "methods": [
+      "Generative"
+    ],
+    "stats": {
+      "word_count": 245,
+      "sentence_count": 9,
+      "avg_sentence_length": 27.2,
+      "unique_words": 168
+    },
+    "title": "Beyond principlism: Practical strategies for ethical AI use in research practices",
+    "authors": [
+      "Zhicheng Lin"
+    ],
+    "url": "http://arxiv.org/abs/2401.15284v6",
+    "published": "2024-01-27"
+  },
+  {
+    "summary": "We report results from a case study of OpenAI analysing ethical AI discourse. Research addressed: How has OpenAI s public discourse leveraged  ethics ,  safety ,  alignment  and adjacent related concepts over time, and what does discourse signal about framing in practice? A structured corpus, differentiating between communication for a general audience and communication with an academic audience, was assembled from public documentation. Quantitative analysis leveraged computational content analysis methods via NLP to model topics and quantify changes in rhetoric over time. Results indicate that safety and risk discourse dominate OpenAI s public communication and documentation, without applying academic and advocacy ethics frameworks or vocabularies.",
+    "keywords": [
+      {
+        "term": "content analysis",
+        "score": 4
+      },
+      {
+        "term": "ethics",
+        "score": 4
+      },
+      {
+        "term": "discourse",
+        "score": 4
+      },
+      {
+        "term": "openai",
+        "score": 3
+      },
+      {
+        "term": "public",
+        "score": 3
+      },
+      {
+        "term": "communication",
+        "score": 3
+      },
+      {
+        "term": "report",
+        "score": 2
+      },
+      {
+        "term": "ethical",
+        "score": 2
+      },
+      {
+        "term": "leveraged",
+        "score": 2
+      },
+      {
+        "term": "safety",
+        "score": 2
+      },
+      {
+        "term": "over",
+        "score": 2
+      },
+      {
+        "term": "time",
+        "score": 2
+      }
+    ],
+    "important_sentences": [
+      "Research addressed: How has OpenAI s public discourse leveraged  ethics ,  safety ,  alignment  and adjacent related concepts over time, and what does discourse signal about framing in practice?",
+      "Results indicate that safety and risk discourse dominate OpenAI s public communication and documentation, without applying academic and advocacy ethics frameworks or vocabularies.",
+      "Quantitative analysis leveraged computational content analysis methods via NLP to model topics and quantify changes in rhetoric over time.",
+      "We report results from a case study of OpenAI analysing ethical AI discourse.",
+      "A structured corpus, differentiating between communication for a general audience and communication with an academic audience, was assembled from public documentation."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "No explicit contributions detected."
+    ],
+    "methods": [
+      "No specific methods detected"
+    ],
+    "stats": {
+      "word_count": 165,
+      "sentence_count": 10,
+      "avg_sentence_length": 16.5,
+      "unique_words": 115
+    },
+    "title": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+    "authors": [
+      "Melissa Wilfley",
+      "Mengting Ai",
+      "Madelyn Rose Sanfilippo"
+    ],
+    "url": "http://arxiv.org/abs/2601.16513v1",
+    "published": "2026-01-23"
+  },
+  {
+    "summary": "Generative AI has recently had a profound impact on various fields, including daily life, research, and education. To explore its efficient utilization in data-driven materials science, we organized a hackathon -- AIMHack2024 -- in July 2024. In this hackathon, researchers from fields such as materials science, information science, bioinformatics, and condensed matter physics worked together to explore how generative AI can facilitate research and education. Based on the results of the hackathon, this paper presents topics related to  1  conducting AI-assisted software trials,  2  building AI tutors for software, and  3  developing GUI applications for software. While generative AI continues to evolve rapidly, this paper provides an early record of its application in data-driven materials science and highlights strategies for integrating AI into research and education.",
+    "keywords": [
+      {
+        "term": "data-driven materials",
+        "score": 4
+      },
+      {
+        "term": "materials science,",
+        "score": 4
+      },
+      {
+        "term": "science",
+        "score": 4
+      },
+      {
+        "term": "generative",
+        "score": 3
+      },
+      {
+        "term": "education",
+        "score": 3
+      },
+      {
+        "term": "hackathon",
+        "score": 3
+      },
+      {
+        "term": "software",
+        "score": 3
+      },
+      {
+        "term": "fields",
+        "score": 2
+      },
+      {
+        "term": "explore",
+        "score": 2
+      },
+      {
+        "term": "driven",
+        "score": 2
+      },
+      {
+        "term": "recently",
+        "score": 1
+      },
+      {
+        "term": "profound",
+        "score": 1
+      }
+    ],
+    "important_sentences": [
+      "In this hackathon, researchers from fields such as materials science, information science, bioinformatics, and condensed matter physics worked together to explore how generative AI can facilitate research and education.",
+      "While generative AI continues to evolve rapidly, this paper provides an early record of its application in data-driven materials science and highlights strategies for integrating AI into research and education.",
+      "To explore its efficient utilization in data-driven materials science, we organized a hackathon -- AIMHack2024 -- in July 2024.",
+      "Generative AI has recently had a profound impact on various fields, including daily life, research, and education.",
+      "Based on the results of the hackathon, this paper presents topics related to  1  conducting AI-assisted software trials,  2  building AI tutors for software, and  3  developing GUI applications for software."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "Based on the results of the hackathon, this paper presents topics related to  1  conducting AI-assisted software trials,  2  building AI tutors for software, and  3  developing GUI applications for software."
+    ],
+    "methods": [
+      "Generative"
+    ],
+    "stats": {
+      "word_count": 127,
+      "sentence_count": 5,
+      "avg_sentence_length": 25.4,
+      "unique_words": 82
+    },
+    "title": "Exploring utilization of generative AI for research and education in data-driven materials science",
+    "authors": [
+      "Takahiro Misawa",
+      "Ai Koizumi",
+      "Ryo Tamura",
+      "Kazuyoshi Yoshimi"
+    ],
+    "url": "http://arxiv.org/abs/2504.08817v2",
+    "published": "2025-04-09"
+  }
+]

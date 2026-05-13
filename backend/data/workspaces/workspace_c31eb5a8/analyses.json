@@ -1,0 +1,197 @@
+[
+  {
+    "summary": "Nilesh Ashokrao Thorat4 Text Summarization Using Natural Language Processing Abstract: Text summarization is a crucial task in natural language processing  NLP  that aims to condense large volumes of text into concise and informative summaries. The findings contribute to advancing the state-of-the-art in text summarization, with implications for applications in information retrieval, document analysis, and automated content generation Keywords: Automatic Text Summarization  ATS , Natural Language Processing  NLP , extractive summarization, LSA 1. For extracting text from audio and then summarizing it into a table format, the following Natural Language Processing  NLP  techniques are typically employed:   Speech Recognition  Speech-to-Text : Automatic Speech Recognition  ASR  systems convert spoken language  audio  into text. Electrical Systems 20-11s  2024 : 3410-3417 3412   Text Summarization: Extractive Summarization: Techniques like Latent Semantic Analysis  LSA , Term Frequency-Inverse Document Frequency  TF-IDF , or graph-based algorithms like TextRank can be used to identify and extract the most informative sentences from the transcribed text. Kallimani,  Automatic extractive text summarization using K-means clustering,  2017 International Conference on Electrical, Electronics, Communication  13  Akshi Kumar, Aditi Sharma, Sidhant Sharma, Shashwat Kashyap,  Performance Analysis of Keyword Extraction Algorithms Assessing Extractive Text Summarization.",
+    "keywords": [
+      {
+        "term": "text summarization",
+        "score": 40
+      },
+      {
+        "term": "natural language",
+        "score": 22
+      },
+      {
+        "term": "language processing",
+        "score": 18
+      },
+      {
+        "term": "automatic text",
+        "score": 18
+      },
+      {
+        "term": "electrical systems",
+        "score": 16
+      },
+      {
+        "term": "systems 20-11s",
+        "score": 16
+      },
+      {
+        "term": "techniques",
+        "score": 27
+      },
+      {
+        "term": "audio",
+        "score": 21
+      },
+      {
+        "term": "extractive",
+        "score": 19
+      },
+      {
+        "term": "sentences",
+        "score": 19
+      },
+      {
+        "term": "summary",
+        "score": 18
+      },
+      {
+        "term": "abstractive",
+        "score": 18
+      }
+    ],
+    "important_sentences": [
+      "The findings contribute to advancing the state-of-the-art in text summarization, with implications for applications in information retrieval, document analysis, and automated content generation Keywords: Automatic Text Summarization  ATS , Natural Language Processing  NLP , extractive summarization, LSA 1.",
+      "Nilesh Ashokrao Thorat4 Text Summarization Using Natural Language Processing Abstract: Text summarization is a crucial task in natural language processing  NLP  that aims to condense large volumes of text into concise and informative summaries.",
+      "Electrical Systems 20-11s  2024 : 3410-3417 3412   Text Summarization: Extractive Summarization: Techniques like Latent Semantic Analysis  LSA , Term Frequency-Inverse Document Frequency  TF-IDF , or graph-based algorithms like TextRank can be used to identify and extract the most informative sentences from the transcribed text.",
+      "For extracting text from audio and then summarizing it into a table format, the following Natural Language Processing  NLP  techniques are typically employed:   Speech Recognition  Speech-to-Text : Automatic Speech Recognition  ASR  systems convert spoken language  audio  into text.",
+      "Kallimani,  Automatic extractive text summarization using K-means clustering,  2017 International Conference on Electrical, Electronics, Communication  13  Akshi Kumar, Aditi Sharma, Sidhant Sharma, Shashwat Kashyap,  Performance Analysis of Keyword Extraction Algorithms Assessing Extractive Text Summarization."
+    ],
+    "research_gaps": [
+      "Domain-Specific Techniques: It assesses the impact of domain-specific summarization, addressing specialized content areas, which is a relatively underexplored area in prior literature 1 1 Assistant Professor, Department of Information Technology, Kasegaon Education Society s Rajarambapu Institute of Technology ,Shivaji University, Sakharale,MS-415414, India, Mailid :ashwini."
+    ],
+    "limitations": [
+      "Experimental results on benchmark datasets demonstrate the effectiveness and scalability of the proposed methods compared to baseline summarization techniques.",
+      "The comparison is based on key performance metrics, limitations, and strengths, which are crucial for evaluating the effectiveness of summarization approaches.",
+      "Method Accuracy Processing Time Use cases Limitations Strength of Proposed Method TF-IDF 75  5 seconds Short articles May miss context Improved contextual weighting LSA 78  8 seconds Journal papers Sensitive to noise Robust to noise Text Rank 80  10 seconds News articles Requires significant data Better at handling diverse topics Proposed Method 85  6 seconds All document types Still needs optimization Efficient, versatile, and user friendly summery The comparative analysis highlights that the proposed method substantially improves on existing summarization techniques in terms of accuracy and applicability."
+    ],
+    "future_scope": [
+      "As the field of automatic text summarization evolves, our approach provides a promising direction for developing efficient, high-quality summarization tools that cater to the diverse needs of users.",
+      "CONCLUSION AND FUTURE WORK: In summary, the results of this study reveal that the proposed method provides significant advancements over traditional summarization techniques by enhancing accuracy while maintaining efficient processing times.",
+      "Future research directions will involve the exploration of integrating deep learning techniques and user feedback loops to refine summarization outcomes further and explore varied application contexts, including multimedia content summarization."
+    ],
+    "contributions": [
+      "This paper presents a comprehensive study of text summarization techniques using advanced NLP methods.",
+      "The findings contribute to advancing the state-of-the-art in text summarization, with implications for applications in information retrieval, document analysis, and automated content generation Keywords: Automatic Text Summarization  ATS , Natural Language Processing  NLP , extractive summarization, LSA 1.",
+      "It investigates state-of-the-art algorithms, models, and approaches that leverage NLP advancements to produce accurate and informative summaries.",
+      "The novelty of the paper lies in its comprehensive examination and synthesis of various text summarization techniques within the framework of natural language processing  NLP .",
+      "Here are some specific points of novelty of our work:   Hybrid Summarization Models: The paper explores the combination of extractive and abstractive summarization methods, proposing a unique approach that integrates different methodologies, such as using WordNet ontology and advanced neural networks."
+    ],
+    "methods": [
+      "Neural Network",
+      "Deep Learning",
+      "Machine Learning",
+      "Transformer",
+      "Bert",
+      "Lstm",
+      "Cnn",
+      "Rnn",
+      "Attention Mechanism",
+      "Clustering"
+    ],
+    "stats": {
+      "word_count": 3554,
+      "sentence_count": 177,
+      "avg_sentence_length": 20.1,
+      "unique_words": 1028
+    },
+    "title": "Text_Summarization_Using_Natural_Language_Processi.pdf",
+    "source": "Text_Summarization_Using_Natural_Language_Processi.pdf"
+  },
+  {
+    "summary": "This tool not only generates clear, efficient summaries but also highlights key phrases and terms, reads the text aloud, checks for plagiarism, extracts relevant images, and focuses on core concepts. The Natural Language Toolkit  NLTK  International Research Journal on Advanced Engineering and Management https:  goldncloudpublications. The system also allows the users to perform various controlling actions like to view the images in the paper, to view the summary of the paper, and can also check for the plagiarism. Then it will generate the summary of the paper and it will check for the post-processing and removes the stop words and again goes to the text processing stage. Figure 4 Image Generated from The Paper Figure 5 Image Generated from Paper International Research Journal on Advanced Engineering and Management https:  goldncloudpublications.",
+    "keywords": [
+      {
+        "term": "natural language",
+        "score": 14
+      },
+      {
+        "term": "advanced engineering",
+        "score": 10
+      },
+      {
+        "term": "management https:",
+        "score": 10
+      },
+      {
+        "term": "https: goldncloudpublications.",
+        "score": 10
+      },
+      {
+        "term": "goldncloudpublications. 0374",
+        "score": 10
+      },
+      {
+        "term": "issn: 2584-2854",
+        "score": 10
+      },
+      {
+        "term": "summary",
+        "score": 21
+      },
+      {
+        "term": "text",
+        "score": 18
+      },
+      {
+        "term": "words",
+        "score": 14
+      },
+      {
+        "term": "system",
+        "score": 13
+      },
+      {
+        "term": "figure",
+        "score": 12
+      },
+      {
+        "term": "journal",
+        "score": 11
+      }
+    ],
+    "important_sentences": [
+      "Figure 4 Image Generated from The Paper Figure 5 Image Generated from Paper International Research Journal on Advanced Engineering and Management https:  goldncloudpublications.",
+      "Then it will generate the summary of the paper and it will check for the post-processing and removes the stop words and again goes to the text processing stage.",
+      "The Natural Language Toolkit  NLTK  International Research Journal on Advanced Engineering and Management https:  goldncloudpublications.",
+      "15  Also we incorporated a PIL for the image and imageTK libraries, Image library is used for opening, International Research Journal on Advanced Engineering and Management https:  goldncloudpublications.",
+      "The system also allows the users to perform various controlling actions like to view the images in the paper, to view the summary of the paper, and can also check for the plagiarism."
+    ],
+    "research_gaps": [
+      "No explicit research gaps detected."
+    ],
+    "limitations": [
+      "No explicit limitations detected."
+    ],
+    "future_scope": [
+      "No explicit future scope detected."
+    ],
+    "contributions": [
+      "This research paper explains how we developed and tested a system that can turn long documents into short, clear summaries.",
+      "To address this issue, we developed an AI-powered tool specifically designed to analyze and summarize research papers efficiently.",
+      "Proposed System In our proposed system we developed an AI summarization tool where the users can upload a research paper and get the summary of the paper  6 .",
+      "Figure 6 Plagiarism Percent Conclusion This paper presents an AI tool which summarizes the research papers and give effective summary."
+    ],
+    "methods": [
+      "Neural Network",
+      "Machine Learning",
+      "Bert",
+      "Supervised",
+      "Unsupervised",
+      "Regression",
+      "Classification",
+      "Embedding",
+      "Convolutional",
+      "Statistical"
+    ],
+    "stats": {
+      "word_count": 1988,
+      "sentence_count": 113,
+      "avg_sentence_length": 17.6,
+      "unique_words": 711
+    },
+    "title": "Research_Paper_Summarizer_Using_AI.pdf",
+    "source": "Research_Paper_Summarizer_Using_AI.pdf"
+  }
+]
